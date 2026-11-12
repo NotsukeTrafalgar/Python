@@ -1,0 +1,17 @@
+ember-fox;30;10;common;25;fire-bite;fire-hair;5
+chu-chu;28;5;common;15;bite;spikes;5
+spark-mouse;25;30;common;10;shock-bite;eletric-hair;5
+infected-villager;40;5;common;30;bite;rot-body;7
+mutated-dog;55;15;common;25;bite;rot-body;7
+torm-raptor;85;25;rare;60;quick-clawn;hard-skin;10
+blade-lizard;90;25;rare;55;tail-cleave;flame-skin;10
+bone-guardian;110;30;rare;50;bone-crush;spike-bones;12
+storm-drake;150;35;rare;70;thunder-roar;storm-recoil;13
+crystal-scorpion;100;40;rare;55;crystal-sting;poison-skin;15
+dark-knight;180;35;rare;70;slash-attack;black-armour;15
+infernal-dragon;450;45;elite;95;molten-breath;flame-skin;17
+void-sorcerer;320;40;elite;90;abyssal-curse;cursed-barrer;17
+ancient-colossus;500;60;elite;95;earthquake;ancient-armour;18
+demon-king;750;20;elite;80;fire-blast;infernal-armour;20
+crimson-hydra;480;45;elite;90;triple-flame;dragon-scale;20
+primordial-beast;850;40;boss;100;ancient-power;sea-protection;25
